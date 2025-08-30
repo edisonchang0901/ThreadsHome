@@ -1,8 +1,0 @@
-D:\Project\ThreadsHome\ThreadsHome\obj\Debug\net8.0\ThreadsHome.csproj.AssemblyReference.cache
-D:\Project\ThreadsHome\ThreadsHome\obj\Debug\net8.0\rpswa.dswa.cache.json
-D:\Project\ThreadsHome\ThreadsHome\obj\Debug\net8.0\ThreadsHome.GeneratedMSBuildEditorConfig.editorconfig
-D:\Project\ThreadsHome\ThreadsHome\obj\Debug\net8.0\ThreadsHome.AssemblyInfoInputs.cache
-D:\Project\ThreadsHome\ThreadsHome\obj\Debug\net8.0\ThreadsHome.AssemblyInfo.cs
-D:\Project\ThreadsHome\ThreadsHome\obj\Debug\net8.0\ThreadsHome.csproj.CoreCompileInputs.cache
-D:\Project\ThreadsHome\ThreadsHome\obj\Debug\net8.0\ThreadsHome.MvcApplicationPartsAssemblyInfo.cs
-D:\Project\ThreadsHome\ThreadsHome\obj\Debug\net8.0\ThreadsHome.MvcApplicationPartsAssemblyInfo.cache
